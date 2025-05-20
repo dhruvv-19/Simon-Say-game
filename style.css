@@ -37,7 +37,7 @@ body{
 }
 
 .userFlash{
-    background-color: pink;
+    background-color: violet;
 }
 
 @media(max-width: 560px){
