@@ -16,19 +16,19 @@ body{
 }
 
 .one{
-    background-color: #d95980;
+    background-color: #76c840;
 }
 
 .two{
-    background-color: #63aac0;
+    background-color: #ffbe30;
 }
 
 .three{
-    background-color: #f99b45;
+    background-color: #ff5f57;
 }
 
 .four{
-    background-color: #819ff9;
+    background-color: #70e7ff;
 }
 
 /* using JavaScript */
@@ -37,7 +37,7 @@ body{
 }
 
 .userFlash{
-    background-color: green;
+    background-color: pink;
 }
 
 @media(max-width: 560px){
